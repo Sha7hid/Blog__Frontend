@@ -31,7 +31,7 @@ export default function Home({results}) {
     <Navbar bg="dark" variant="dark">
         <Container>
           <Navbar.Brand href="#home" >
-            <h2 className={styles.navBrand}>BlogIT</h2> 
+            <h2 className={styles.navBrand}>Blogit</h2> 
           </Navbar.Brand>
           
           <Link href='/' className={styles.navlink}>
